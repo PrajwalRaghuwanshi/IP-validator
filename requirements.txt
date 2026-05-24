@@ -1,3 +1,5 @@
 streamlit
-
-extension or library is required for this project 
+pandas
+numpy
+matplotlib
+scikit-learn
